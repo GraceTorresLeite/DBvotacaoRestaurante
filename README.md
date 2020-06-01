@@ -22,7 +22,7 @@ Vamos fazer um pequeno sistema que auxilie essa tomada de decisão!
 
 ## Estórias
 
-**Estória 01**
+**Estória 1**
 Eu como profissional faminto Quero votar no meu restaurante favorito Para que eu consiga 
 democraticamente levar meus colegas a comer onde eu gosto. 
 
